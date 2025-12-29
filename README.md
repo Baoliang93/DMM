@@ -1,6 +1,6 @@
 # Debiased Mapping for Full-Reference Image Quality Assessment
 
-This is the repository of paper [Debiased Mapping for Full-Reference Image Quality Assessment](https://arxiv.org/abs/2302.11464). 
+This is the repository of paper [Debiased Mapping for Full-Reference Image Quality Assessment]([https://arxiv.org/abs/2302.11464](https://ieeexplore.ieee.org/abstract/document/10886996)). 
 
 ### Highlights:
 * The perception bias of existing deep-feature based FR-IQA measures is explored, which may cause inferior performance on misaligned features and restored content.
